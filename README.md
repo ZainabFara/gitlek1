@@ -3,5 +3,4 @@
 
 ## User Story 010
 
-As a DevOps,
-I want to have a Help File for Making lists in Markdown, so that when I need to do it, I can find instructions.
+As a DevOps, I want to have a Help File for Making lists in Markdown, so that when I need to do it, I can find instructions.
